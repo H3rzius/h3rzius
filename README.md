@@ -4,7 +4,7 @@
         <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;" alt="Typing SVG">
     </a>
   </h1>
-  <p>Hi!,<br/> I'm a software developer in Bremen, Germany. My hobbies are programming minecraft server plugins and programming boring things</p>
+  <p>Hi!,<br/> I'm a 23 years old software developer in Bremen, Germany. My hobbies are programming minecraft server plugins and programming boring things</p>
 <h2>🔧 GitHub stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=h3rzius&show_icons=true&count_private=true&hide_border=true&title_color=239ff7&icon_color=239ff7&text_color=c9d1d9&bg_color=0d1117" height="150" alt="H3rzius GitHub" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3rzius&layout=compact&hide_border=true&title_color=239ff7&text_color=239ff7&bg_color=0d1117" height="150" alt="H3rzius lenguajes" />
@@ -48,3 +48,16 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux logo" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="AI logo" />
 </div>
+<br>
+<h2>📑 Curriculum vitae (CV)</h2>
+<h5>Career</h5>
+<ul>
+  <li>2022-2025: Trainee Software Developer</li>
+</ul>
+<h5>Languages:</h5>
+<ul>
+  <li>German</li>
+  <li>English</li>
+  <li>Spanish</li>
+</ul>
+
