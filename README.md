@@ -43,8 +43,6 @@
 </div>
 <h2>🖥️ Currently learning</h2>
 <div>
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux logo" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="AI logo" />
 </div>
@@ -52,6 +50,7 @@
 <h2>📑 Curriculum vitae (CV)</h2>
 <h5>Career</h5>
 <ul>
+  <li>2025-today: Software Developer</li>
   <li>2022-2025: Trainee Software Developer</li>
 </ul>
 <h5>Languages:</h5>
@@ -59,5 +58,9 @@
   <li>German</li>
   <li>English</li>
   <li>Spanish</li>
+</ul>
+<h6>Extra:</h6>
+<ul>
+  <li>Not open for work</li>
 </ul>
 
