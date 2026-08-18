@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript logo" />
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript logo" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
-  VB.NET
+  VB<img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET logo" />
 </div>
 <h2>⛏️ Programming tools & Frameworks</h2>
 <div>
