@@ -61,6 +61,6 @@
 </ul>
 <h6>Extra:</h6>
 <ul>
-  <li>Not open for work</li>
+  <li>No open for work</li>
 </ul>
 
