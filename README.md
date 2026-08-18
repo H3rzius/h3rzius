@@ -18,6 +18,7 @@
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript logo" />
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript logo" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
+  VB.NET
 </div>
 <h2>⛏️ Programming tools & Frameworks</h2>
 <div>
@@ -50,7 +51,7 @@
 <h2>📑 Curriculum vitae (CV)</h2>
 <h5>Career</h5>
 <ul>
-  <li>2025-today: Software Developer</li>
+  <li>2025-today: C#/.NET Software Developer</li>
   <li>2022-2025: Trainee Software Developer</li>
 </ul>
 <h5>Languages:</h5>
